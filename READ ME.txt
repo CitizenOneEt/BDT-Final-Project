@@ -1,3 +1,5 @@
+
+Link to video - https://web.microsoftstream.com/video/50ba077c-b5ce-4037-b4b8-2442a14c0137
 // Follow the steps below to get the project up and running
 
 1. Check if Zoo-keeper is running, if not start it
