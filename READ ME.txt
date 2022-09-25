@@ -1,0 +1,14 @@
+// Follow the steps below to get the project up and running
+
+1. Check if Zoo-keeper is running, if not start it
+   service --status-all | bin/zookeeper-server-start.sh config/zookeeper.properties
+
+2. Start Kafka server
+   bin/kafka-server-start.sh config/server.properties
+
+3. Run Producer program
+
+4. Run Consumer program
+
+5. Run Spark TableCreator program
+
